@@ -27,11 +27,28 @@ Here are some of the exciting projects I've worked on:
 
 ## 🔧 Skills
 
-- **Frontend**: ReactJS, JavaScript, CSS, HTML
-- **Backend**: Spring Boot, RESTful APIs
-- **Database**: PostgreSQL
-- **Version Control**: Git, GitHub
-- **Other**: Data Structures & Algorithms, Problem-Solving, Postman API
+- **Frontend**:  
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=flat) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
+
+- **Backend**:  
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat) 
+  ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-FF6F61?style=flat)
+
+- **Database**:  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) 
+
+- **Version Control**:  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
+
+- **Other**:  
+  ![DSA](https://img.shields.io/badge/-Data_Structures_and_Algorithms-4B8BBE?style=flat)  
+  ![Problem-Solving](https://img.shields.io/badge/-Problem_Solving-FFD700?style=flat)  
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
 
 ## 📫 How to Reach Me
 
