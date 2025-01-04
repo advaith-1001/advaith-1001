@@ -31,7 +31,7 @@ Here are some of the exciting projects I've worked on:
 - **Backend**: Spring Boot, RESTful APIs
 - **Database**: PostgreSQL
 - **Version Control**: Git, GitHub
-- **Other**: Data Structures & Algorithms, Problem-Solving
+- **Other**: Data Structures & Algorithms, Problem-Solving, Postman API
 
 ## 📫 How to Reach Me
 
