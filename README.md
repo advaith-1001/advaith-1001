@@ -34,7 +34,8 @@ Here are some of the exciting projects I've worked on:
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
 
 - **Backend**:  
-  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat) 
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) 
   ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-FF6F61?style=flat)
 
 - **Database**:  
