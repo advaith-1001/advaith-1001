@@ -4,7 +4,7 @@ I’m a passionate software developer, currently focused on building full-stack 
 
 ## 🚀 Projects
 
-Here are some of the exciting projects I've worked on:
+Here are some of the projects I've worked on:
 
 ### [Full-Stack E-Commerce Website](https://github.com/advaith-1001/fullstack-ecom-project)
 - **Tech Stack**: ReactJS, Spring Boot, PostgreSQL
