@@ -6,7 +6,7 @@ I’m a passionate software developer, currently focused on building full-stack 
 
 Here are some of the projects I've worked on:
 
-### [Task Manager with Productivity Tracker](https://github.com/advaith-1001/task-manager-backend)
+### [Task Manager with Productivity Tracker](https://github.com/advaith-1001/taskmanager_app)
 - **Tech Stack**: ReactJS, Spring Boot, PostgreSQL
 - A full-stack task management application that allows users to create, track, and manage tasks efficiently.
 - Implemented authentication using Spring Security,  JWT and email verificationfor secure user access.
