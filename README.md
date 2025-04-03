@@ -16,6 +16,13 @@ Here are some of the projects I've worked on:
 - Built a modern UI using MUI components for a seamless user experience.
 - **Frontend Repository**: [Click Here](https://github.com/advaith-1001/task-manager-frontend)
 
+### [Real-Time Multiplayer Flag Guessing Game](https://github.com/advaith-1001/guessing-game)  
+- **Tech Stack**: ReactJS, Spring Boot, WebSockets, TailwindCSS  
+- A real-time multiplayer game where players compete to guess country names based on displayed flags.  
+- Implemented real-time gameplay using WebSockets to synchronize player inputs and score updates.  
+- Built a responsive UI with TailwindCSS and developed the backend with Spring Boot to handle game logic and player interactions.
+- **Frontend Repository**: [Click Here](https://github.com/advaith-1001/guessing-game-frontend)  
+
 ### [Full-Stack E-Commerce Website](https://github.com/advaith-1001/fullstack-ecom-project)
 - **Tech Stack**: ReactJS, Spring Boot, PostgreSQL
 - A fully functional e-commerce platform with user registration/login, product catalog, shopping cart, and order management. 
@@ -24,12 +31,6 @@ Here are some of the projects I've worked on:
 ### [Spring Boot Quiz Application API](https://github.com/advaith-1001/quizapp-spring-boot)
 - **Tech Stack**: Spring Boot, PostgreSQL
 - Developed a RESTful API for serving dynamic quizzes with multiple-choice questions, supporting CRUD operations for quizzes, questions, and user responses.
-
-### [Real-Time Multiplayer Flag Guessing Game](https://github.com/advaith-1001/guessing-game)  
-- **Tech Stack**: ReactJS, Spring Boot, WebSockets, TailwindCSS  
-- A real-time multiplayer game where players compete to guess country names based on displayed flags.  
-- Implemented real-time gameplay using WebSockets to synchronize player inputs and score updates.  
-- Built a responsive UI with TailwindCSS and developed the backend with Spring Boot to handle game logic and player interactions.  
 
 
 ## 🔧 Skills
