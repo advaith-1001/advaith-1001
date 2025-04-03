@@ -25,15 +25,12 @@ Here are some of the projects I've worked on:
 - **Tech Stack**: Spring Boot, PostgreSQL
 - Developed a RESTful API for serving dynamic quizzes with multiple-choice questions, supporting CRUD operations for quizzes, questions, and user responses.
 
-### [React Tic-Tac-Toe Game](https://github.com/advaith-1001/reactjs-tic-tac-toe)
-- **Tech Stack**: ReactJS, JavaScript, CSS
-- Built an interactive two-player Tic-Tac-Toe game using React hooks like `useState` for managing the game state and `useEffect` for resetting the board after each round.
-- Ensured a smooth and responsive user interface with CSS.
+### [Real-Time Multiplayer Flag Guessing Game](https://github.com/advaith-1001/guessing-game)  
+- **Tech Stack**: ReactJS, Spring Boot, WebSockets, TailwindCSS  
+- A real-time multiplayer game where players compete to guess country names based on displayed flags.  
+- Implemented real-time gameplay using WebSockets to synchronize player inputs and score updates.  
+- Built a responsive UI with TailwindCSS and developed the backend with Spring Boot to handle game logic and player interactions.  
 
-### [React To-Do App](https://github.com/advaith-1001/Reactjs-To-do-app)
-- **Tech Stack**: ReactJS, JavaScript, CSS
-- A simple to-do list app to manage tasks with CRUD functionality, using React hooks (`useState` and `useEffect`) for state management and localStorage for persistence across sessions.
-- Designed a clean and responsive layout with CSS.
 
 ## 🔧 Skills
 
