@@ -1,6 +1,9 @@
 # Hi there! 👋 I'm Advaith
 
-I’m a passionate software developer, currently focused on building full-stack applications using the latest technologies like **ReactJS**, **Spring Boot**, and **PostgreSQL**. I'm always striving to improve my skills and explore new concepts in the world of **web development**, **data structures**, **algorithms**, and **software engineering**.
+I’m a passionate software developer, currently focused on building full-stack applications using the latest technologies like **ReactJS**, **Spring Boot**, and **PostgreSQL**. Alongside web development, I'm also exploring the field of **Machine Learning**, working on real-world projects to strengthen my understanding of data-driven systems.
+
+I'm always striving to improve my skills and explore new concepts in the world of **web development**, **data structures**, **algorithms**, **machine learning**, and **software engineering**.
+
 
 ## 🚀 Projects
 
