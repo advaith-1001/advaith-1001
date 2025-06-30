@@ -28,10 +28,11 @@ Here are some of the projects I've worked on:
 - A fully functional e-commerce platform with user registration/login, product catalog, shopping cart, and order management. 
 - Built a responsive UI using ReactJS and managed the backend with Spring Boot, ensuring seamless data retrieval and updates via RESTful APIs.
   
-### [Spring Boot Quiz Application API](https://github.com/advaith-1001/quizapp-spring-boot)
-- **Tech Stack**: Spring Boot, PostgreSQL
-- Developed a RESTful API for serving dynamic quizzes with multiple-choice questions, supporting CRUD operations for quizzes, questions, and user responses.
-
+### [Heart Disease Prediction (ML Project)](https://github.com/advaith-1001/heart-disease-prediction)
+- **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
+- Built a machine learning model to predict the likelihood of heart disease using real patient health data.
+- Implemented data preprocessing (handling missing values, encoding, scaling), feature engineering, and model training using classification algorithms.
+- Evaluated model performance using confusion matrix, classification report, and accuracy metrics.
 
 ## 🔧 Skills
 
