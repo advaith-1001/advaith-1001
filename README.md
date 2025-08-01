@@ -26,10 +26,14 @@ Here are some of the projects I've worked on:
 - Built a responsive UI with TailwindCSS and developed the backend with Spring Boot to handle game logic and player interactions.
 - **Frontend Repository**: [Click Here](https://github.com/advaith-1001/guessing-game-frontend)  
 
-### [Full-Stack E-Commerce Website](https://github.com/advaith-1001/fullstack-ecom-project)
-- **Tech Stack**: ReactJS, Spring Boot, PostgreSQL
-- A fully functional e-commerce platform with user registration/login, product catalog, shopping cart, and order management. 
-- Built a responsive UI using ReactJS and managed the backend with Spring Boot, ensuring seamless data retrieval and updates via RESTful APIs.
+### [DocDiff: AI-Powered Document Comparison Tool](https://github.com/your-username/docdiff-frontend)
+- **Tech Stack**: ReactJS, Python (FastAPI), Google Gemini API, Docker
+- A full-stack document comparison application that allows users to upload two documents (PDF, DOCX, Image) and receive a detailed, AI-summarized comparison.
+- Implemented a robust backend with FastAPI to handle complex file processing, including conversion of various formats into a standardized structure for analysis.
+- Integrated Google's Gemini API to provide intelligent, human-readable summaries of document changes, enhancing user understanding.
+- Developed a dynamic side-by-side comparison UI in React, which visualizes both textual and formatting differences in real-time.
+- Engineered a file highlighting service that generates and displays new PDF documents with additions and deletions marked visually.
+- **Backend Repository**: [Click Here](https://github.com/advaith-1001/docdiff-backend)
   
 ### [Heart Disease Prediction (ML Project)](https://github.com/advaith-1001/heart-disease-prediction)
 - **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
@@ -49,6 +53,7 @@ Here are some of the projects I've worked on:
   ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
   ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396?logo=java&logoColor=white&style=flat)  
   ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-FF6F61?style=flat)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 - **Database**:  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) 
