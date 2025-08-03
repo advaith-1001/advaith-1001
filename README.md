@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 - Built a responsive UI with TailwindCSS and developed the backend with Spring Boot to handle game logic and player interactions.
 - **Frontend Repository**: [Click Here](https://github.com/advaith-1001/guessing-game-frontend)  
 
-### [DocDiff: AI-Powered Document Comparison Tool](https://github.com/your-username/docdiff-frontend)
+### [DocDiff: AI-Powered Document Comparison Tool](https://github.com/advaith-1001/docdiff-backend)
 - **Tech Stack**: ReactJS, Python (FastAPI), Google Gemini API
 - A full-stack document comparison application that allows users to upload two documents (PDF, DOCX, Image) and receive a detailed, AI-summarized comparison.
 - Implemented a robust backend with FastAPI to handle complex file processing, including conversion of various formats into a standardized structure for analysis.
