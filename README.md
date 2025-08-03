@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
 - **Frontend Repository**: [Click Here](https://github.com/advaith-1001/guessing-game-frontend)  
 
 ### [DocDiff: AI-Powered Document Comparison Tool](https://github.com/your-username/docdiff-frontend)
-- **Tech Stack**: ReactJS, Python (FastAPI), Google Gemini API, Docker
+- **Tech Stack**: ReactJS, Python (FastAPI), Google Gemini API
 - A full-stack document comparison application that allows users to upload two documents (PDF, DOCX, Image) and receive a detailed, AI-summarized comparison.
 - Implemented a robust backend with FastAPI to handle complex file processing, including conversion of various formats into a standardized structure for analysis.
 - Integrated Google's Gemini API to provide intelligent, human-readable summaries of document changes, enhancing user understanding.
